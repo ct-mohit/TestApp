@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'nttfirstwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_20F2FE6FAF434F57AE2E3C1717D31F00 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_112EF8C8637C49AEB8BE33EC4CE976A3 }}
           package: .
